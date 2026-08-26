@@ -1,34 +1,11 @@
-# Dossier de Validation des Études Supérieures (VES) — Licence Informatique
+# 05 — Preuves
 
-**Candidat :** Romain Maufroy
-**Diplôme visé :** Licence Informatique
-**Date de constitution du dossier :** _à compléter_
+Ensemble des pièces justificatives organisées par nature :
 
-## Objet du dossier
+- `formations/` — Attestations et contenus de formations suivies
+- `projets/` — Fiches et livrables de projets
+- `programmation/` — Extraits de code, dépôts, réalisations techniques
+- `systemes-reseaux/` — Preuves liées aux systèmes et réseaux
+- `documentation/` — Exemples de documentation technique rédigée
 
-Ce dossier a pour but de démontrer, preuves à l'appui, l'acquisition des compétences
-et connaissances correspondant au référentiel de la Licence Informatique, au titre
-de la Validation des Études Supérieures (VES).
-
-## Organisation du dépôt
-
-| Dossier | Contenu |
-|---|---|
-| `00-synthese/` | Présentation générale du candidat et synthèse du dossier |
-| `01-parcours/` | Parcours académique et professionnel détaillé |
-| `02-referentiel/` | Référentiel de la Licence Informatique (compétences, structure L1/L2/L3) |
-| `03-matrice-ves/` | Matrice de correspondance entre UE, compétences et preuves |
-| `04-acquis/` | Détail des acquis par domaine de compétence |
-| `05-preuves/` | Preuves justificatives (formations, projets, code, documentation) |
-| `06-projets/` | Fiches détaillées des projets réalisés |
-| `07-bilan/` | Bilan des acquis, lacunes identifiées et plan de complément |
-| `assets/` | Schémas, matrices visuelles, CV |
-
-## Comment utiliser ce dépôt
-
-Chaque fichier `.md` contient un canevas structuré avec des sections à compléter.
-Les emplacements à remplir sont signalés par `_à compléter_` ou des listes à puces vides.
-
-## Licence
-
-Voir `LICENSE`.
+Chaque sous-dossier possède son propre `README.md` détaillant son contenu.
